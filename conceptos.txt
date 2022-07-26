@@ -1,0 +1,12 @@
+**Constructor**
+Un contructor es un método especial de una clase
+ que se llama automáticamente siempre que se declara u objeto
+de esa clase. Su función es inicializar el objeto y 
+sirve para asegurarnos que los
+objetos siempre contengan valores válidos
+
+**Conceptos** 
+Memoria heap : Almacena los objetos
+Memoria Stack : Almacena variables locales y argumentos
+
+//Cuando se utiliza la palabra new, se guarda en memoria heap 
